@@ -1,0 +1,7 @@
+=== Basic Statistics Calculator ===
+Введённые числа: 12, 13, 12, 34, 45, 5, 6, 7, 76, 78, 678
+Mean: 87.82
+Median: 13.00
+Mode: 12
+Range: 673.00
+Standard Deviation: 188.40
